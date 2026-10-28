@@ -1,6 +1,6 @@
 """
 apk3027.py - A joke for Google's 2027 walled garden verifications.
-(C) 2026 Niugnep <penguin@niugnep.idv.tw> - Licensed by AGPL v3.0 
+(C) 2026 Niugnep Hsueh <penguin@niugnep.idv.tw> - Licensed by AGPL v3.0 
 """
 from tkinter import *
 from time import sleep
