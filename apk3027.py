@@ -1,5 +1,5 @@
 """
-apk3027.py - A joke for Google's 2027 walled garden vetifications.
+apk3027.py - A joke for Google's 2027 walled garden verifications.
 (C) 2026 Niugnep <penguin@niugnep.idv.tw> - Licensed by AGPL v3.0 
 """
 from tkinter import *
