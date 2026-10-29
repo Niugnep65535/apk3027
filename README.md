@@ -8,4 +8,4 @@ Google will drop a change on 2027. After that, all Android app developers will h
 As a joke, there's no code of conduct. There's only one rule: No malwares.
 
 ## License
-AGPL 3.0 (to satire Google)
+AGPL 3.0, see [LICENSE](LICENSE) for details.
