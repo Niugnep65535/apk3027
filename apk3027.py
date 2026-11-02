@@ -1,8 +1,6 @@
 """
 apk3027.py - A joke for Google's 2027 walled garden verifications.
-(C) 2026 Niugnep Hsueh - Licensed by AGPL v3.0
-
-Updated per Issue #1「建議增加難度」— 果凍驗證碼 + 官腔回覆。
+(C) 2026 Niugnep Hsueh <penguin@niugnep.idv.tw> - Licensed by AGPL v3.0
 """
 
 import math
